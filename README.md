@@ -21,3 +21,7 @@
    - Player chooses a name, selects a power (Strength, Magic, or Stealth), and makes choices that shape the story.
    - Multiple paths and branching storylines (cave, mountains, village, forest, ruins).
    - Different endings based on decisions and chosen power. 
+
+6. **File Sorter**  
+   - Organizes files into folders based on type (Images, PDFs/Docs, Spreadsheets).  
+   - Automatically creates folders and moves files without overwriting. 
